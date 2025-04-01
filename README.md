@@ -44,10 +44,4 @@ Choose an option: 🔹
 - Java 8 or later
 - A terminal or command prompt to run the program
 
-## Contributing 
-Feel free to contribute! 🚀 Fork the repository, create a branch, make improvements, and submit a pull request.
-
-## License 
-🌐 Open-source, feel free to use and modify!
-
 Happy Banking! 💳💙
